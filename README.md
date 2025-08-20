@@ -41,12 +41,3 @@
 - [ ] Contributor guide & design docs.
 - [ ] Regularly track Node SEA changes across LTS & Current.
 
----
-
-⚡️ With this roadmap you’ve got:
-- **MVP in 2–3 weeks** → instant value for ex-`pkg` users.  
-- **Clear differentiation** (signing, cross-builds, DX polish).  
-- **Community growth path** (plugins, CI, docs).  
-
----
-
