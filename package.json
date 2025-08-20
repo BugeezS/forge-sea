@@ -1,0 +1,7 @@
+{
+  "name": "forge-sea-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
